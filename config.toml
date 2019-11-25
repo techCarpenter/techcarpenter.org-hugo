@@ -14,7 +14,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 # disqusShortname = "yourdiscussshortname"
 
 [author]
-  name = "Brian"
+  name = "Brian DeVries"
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -60,12 +60,16 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     url = "https://twitter.com/briandevries95"
 
   [[params.social]]
-    name = "instagram"
+    name = "gitlab"
+    url = "https://gitlab.com/techCarpenter"
+
+  [[params.social]]
+    name = "linkedin"
     url = "https://instagram.com/"
 
   [[params.social]]
-    name = "github"
-    url = "https://gitlab.com/techCarpenter"
+    name = "email"
+    url = "mailto:brian@techcarpenter.org"
 
 [menu]
 
