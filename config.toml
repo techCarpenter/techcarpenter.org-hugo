@@ -10,7 +10,7 @@ pygmentsUseClasses  = true
 rssLimit = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-153280393-1"
 # disqusShortname = "yourdiscussshortname"
 
 [author]
@@ -65,7 +65,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [[params.social]]
     name = "linkedin"
-    url = "https://instagram.com/"
+    url = "https://www.linkedin.com/in/brian-devries-26417a127/"
 
   [[params.social]]
     name = "email"
