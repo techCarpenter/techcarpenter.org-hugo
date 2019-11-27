@@ -93,29 +93,33 @@ blockquote {
 a {
   color: $text;
   text-decoration: none;
-  // border: none;
-  // transition-property: color;
-  // transition-duration: .4s;
-  // transition-timing-function: ease-out;
-  &:before {
-    content: "";
-    position: absolute;
-    width: 100%;
-    height: 3px;
-    bottom: 0;
-    left: 0;
-    background: #9CF5A6;
-    visibility: hidden;
-    border-radius: 5px;
-    transform: scaleX(0);
-    transition: .25s linear;
-  }
-  &:hover::before,
-  &:focus::before {
-  visibility: visible;
-  transform: scaleX(1);
+  transition: all .15s ease-in-out;
+  &:hover,
+  &:focus {
+      color: white;
   }
 }
+
+// .text-link {
+//   &:before {
+//   content: "";
+//   position: absolute;
+//   width: 100%;
+//   height: 3px;
+//   bottom: 0;
+//   left: 0;
+//   background: $theme;
+//   visibility: hidden;
+//   border-radius: 5px;
+//   transform: scaleX(0);
+//   transition: .25s linear;
+//   }
+//   &:hover::before,
+//   &:focus::before {
+//   visibility: visible;
+//   transform: scaleX(1);
+//   }
+// }
 
 hr {
   opacity: .2;
@@ -247,7 +251,7 @@ table {
   width: 100%;
   box-sizing: border-box;
   box-shadow: -1px -2px 3px rgba(0, 0, 0, 0.45);
-  background-color: $dark-grey;
+  background-color: $color5;
 }
 
 .hdr-wrapper {
@@ -319,7 +323,7 @@ table {
   z-index: 1;
   box-sizing: border-box;
   box-shadow: -1px -2px 3px 0px rgba(0, 0, 0, 0.45);
-  background-color: $dark-grey;
+  background-color: $color5;
 
   ul {
     list-style: none;
@@ -486,7 +490,7 @@ p.img-404 {
   }
 
   .post-item {
-    border-bottom: 1px $highlight-grey dashed;
+    border-bottom: 1px $color3 dashed;
 
     a {
       display: flex;
@@ -915,3 +919,13 @@ hr.post-end {
     right: 1.2em;
   }
 }
+
+// Social Icons
+// .icon-link {
+//     color: $text;
+//     transition: all .15s ease-in-out;
+//     &:hover,
+//     &:focus {
+//         color: white;
+//     }
+// }

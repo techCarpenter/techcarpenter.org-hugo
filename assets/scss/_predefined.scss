@@ -1,8 +1,14 @@
 // Colors
 //
-$theme: #018574;
-$text: #e8eef2;
-$light-grey: #3053b3;//#494f5c;
+$color1: #56a3d3;
+$color2: #148cd6;   //main theme color
+$color3: #1e2124;
+$color4: #f9fdff;
+$color5: #a0acbd;//#4ab6f9;
+
+$theme: $color4;//#018574;
+$text: $color3;//#e8eef2;
+$light-grey: $color2;//#3053b3;//#494f5c;
 $dark-grey: #3B3E48;
 $highlight-grey: #7d828a;
 $midnightblue: #2c3e50;
@@ -15,7 +21,7 @@ $code-fonts: Consolas, "Andale Mono WT", "Andale Mono", Menlo, Monaco, "Lucida C
 // Mixins
 //
 @mixin dimmed {
-  opacity: .6;
+  opacity: .75;
 }
 
 @mixin aTag {
