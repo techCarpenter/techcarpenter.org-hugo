@@ -15,7 +15,7 @@
   background: #888;
 
   &:hover {
-    background: $text;
+    background: $text-color;
   }
 }
 
@@ -28,6 +28,7 @@ html {
   line-height: 1.6;
   letter-spacing: .06em;
   scroll-behavior: smooth;
+  font-size: large;
 }
 
 body,
@@ -35,7 +36,7 @@ button,
 input,
 select,
 textarea {
-  color: $text;
+  color: $text-color;
   font-family: $fonts;
 }
 
@@ -91,7 +92,7 @@ blockquote {
 }
 
 a {
-  color: $text;
+  color: $text-color;
   text-decoration: none;
   transition: all .15s ease-in-out;
   &:hover,
@@ -100,33 +101,12 @@ a {
   }
 }
 
-// .text-link {
-//   &:before {
-//   content: "";
-//   position: absolute;
-//   width: 100%;
-//   height: 3px;
-//   bottom: 0;
-//   left: 0;
-//   background: $theme;
-//   visibility: hidden;
-//   border-radius: 5px;
-//   transform: scaleX(0);
-//   transition: .25s linear;
-//   }
-//   &:hover::before,
-//   &:focus::before {
-//   visibility: visible;
-//   transform: scaleX(1);
-//   }
-// }
-
 hr {
   opacity: .2;
   border-width: 0 0 5px 0;
-  border-style: dashed;
+  border: 1px solid $color3;
   background: transparent;
-  width: 50%;
+  width: 100%;
   margin: 1.8em auto;
 }
 
@@ -157,7 +137,7 @@ table {
 
 .thin {
   max-width: 720px;
-  margin: auto;
+  margin: 6em auto 3em auto;
 }
 
 .feather {
@@ -247,10 +227,10 @@ table {
 #site-header {
   position: fixed;
   z-index: 1;
-  bottom: 0;
+  top: 0;
   width: 100%;
   box-sizing: border-box;
-  box-shadow: -1px -2px 3px rgba(0, 0, 0, 0.45);
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.45);
   background-color: $color5;
 }
 
@@ -316,7 +296,7 @@ table {
 
 #mobile-menu {
   position: fixed;
-  bottom: 4.8em;
+  top: 4.8em;
   right: 1.5em;
   display: none;
   padding: .6em 1.8em;
@@ -337,8 +317,8 @@ table {
 #site-footer {
   text-align: center;
   font-size: .9em;
-  margin-bottom: 96px;
-  margin-top: 64px;
+  margin-bottom: 2em;//96px;
+  margin-top: 2em;//64px;
 
   p {
     margin: 0;
@@ -390,7 +370,7 @@ p.img-404 {
 
     a {
       display: inline-block;
-      border: 2px solid $text;
+      border: 2px solid $text-color;
       border-radius: 5px;
       padding: 5px;
       transition-property: color, border-color;
@@ -595,7 +575,7 @@ hr.post-end {
     max-width: 100%;
     height: auto;
     margin: auto;
-    border-radius: 4px;
+    border-radius: 6px;
   }
 
   ul,
@@ -776,7 +756,7 @@ hr.post-end {
 //
 @media (min-width: 800px) {
   .site-main {
-    margin-top: 3em;
+    margin-top: 5em;
   }
 
   hr.post-end {
@@ -786,13 +766,13 @@ hr.post-end {
 
 @media (min-width: 960px) {
   .site-main {
-    margin-top: 6em;
+    margin-top: 5em;
   }
 }
 
 @media (min-width: 1300px) {
   .site-main {
-    margin-top: 8em;
+    margin-top: 5em;
   }
 
   .desktop-only,
@@ -836,7 +816,7 @@ hr.post-end {
 
 @media (min-width: 1800px) {
   .site-main {
-    margin-top: 10em;
+    margin-top: 5em;
   }
 
   .section-inner {
@@ -917,15 +897,6 @@ hr.post-end {
 
   #mobile-menu {
     right: 1.2em;
+    border-radius: 4px;
   }
 }
-
-// Social Icons
-// .icon-link {
-//     color: $text;
-//     transition: all .15s ease-in-out;
-//     &:hover,
-//     &:focus {
-//         color: white;
-//     }
-// }

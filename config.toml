@@ -1,7 +1,7 @@
 baseURL = "https://techcarpenter.org"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "techCarpenter"
+title = "TechCarpenter"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
@@ -14,7 +14,7 @@ googleAnalytics = "UA-153280393-1"
 # disqusShortname = "yourdiscussshortname"
 
 [author]
-  name = "Brian DeVries"
+  name = "TechCarpenter"
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -36,7 +36,7 @@ googleAnalytics = "UA-153280393-1"
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "A blog about building the web."
+  homeSubtitle = "Helping others build the web"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 

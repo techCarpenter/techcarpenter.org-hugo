@@ -7,7 +7,7 @@ $color4: #f9fdff;
 $color5: #a0acbd;//#4ab6f9;
 
 $theme: $color4;//#018574;
-$text: $color3;//#e8eef2;
+$text-color: $color3;//#e8eef2;
 $light-grey: $color2;//#3053b3;//#494f5c;
 $dark-grey: #3B3E48;
 $highlight-grey: #7d828a;
@@ -28,11 +28,12 @@ $code-fonts: Consolas, "Andale Mono WT", "Andale Mono", Menlo, Monaco, "Lucida C
   a {
     word-wrap: break-word;
     border: none;
-    box-shadow: inset 0 -4px 0 $theme;
+    box-shadow: inset 0 -2px 0 $theme;
     transition-property: box-shadow;
     transition-duration: .1s;
 
     &:hover {
+      color: $text-color;
       box-shadow: inset 0 -1em 0 $theme;
     }
   }
