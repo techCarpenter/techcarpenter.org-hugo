@@ -95,8 +95,7 @@ a {
   color: $text-color;
   text-decoration: none;
   transition: all .15s ease-in-out;
-  &:hover,
-  &:focus {
+  &:hover {
       color: white;
   }
 }

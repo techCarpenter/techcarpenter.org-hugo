@@ -19,7 +19,7 @@ I work as a freelance web developer known as _The Tech Carpenter_. I specialize 
 - You own a small business, don't have a website, and need a website created.
 - You need your website updated and don't know where to start.
 - Something on your site doesn't look right or isn't working.
-- <mark>Add more info here...</mark>
+- You need some additions to your website.
 
 By working with me, you can ensure that your website will be functional and updated.
 
@@ -51,7 +51,7 @@ I love building things and I have a craftsmanship mindset. Namely, I enjoy makin
 
 I am a disciple of Christ. My faith is an integral part of who I am and infiltrates the work I do for others. I am grateful for the gifts God has given me and I strive to steward them well.
 
-That's a pretty good summary of who I am. 🙂 I look forward to working with some of you on your very own websites!
+That's a pretty good summary of who I am. 🙂 I look forward to working with you on your very own website!
 
 <!-- ## Keep Up With Me!
 
