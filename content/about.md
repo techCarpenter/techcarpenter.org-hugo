@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-Even small business owners deserve a professional website. Whether you don't have a website or you just need some updates, you've come to the _right place_.
+Even small business owners deserve a professional website. Whether you need a website created or you just need some updates, you've come to the _right place_.
 
 <img src="/images/briandevries.png" alt="Brian DeVries" style="width: 75%;">
 
@@ -12,7 +12,7 @@ My name is Brian DeVries. I help small businesses keep their websites updated an
 
 ## What I can do for you
 
-I work as a freelance web developer known as _The Tech Carpenter_. I specialize in building websites for small businesses that want to increase the visibility of their business with their very own web presence. However, I also make updates for existing websites.
+I work as a web developer known as _The Tech Carpenter_. I specialize in building websites for small businesses that want to increase their visibility with their very own web presence. However, I also make updates for existing websites.
 
 **You're in the right place if you face any of the following problems:**
 
