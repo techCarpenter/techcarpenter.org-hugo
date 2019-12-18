@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
 Even small business owners deserve a professional website. Whether you need a website created or you just need some updates, you've come to the _right place_.
