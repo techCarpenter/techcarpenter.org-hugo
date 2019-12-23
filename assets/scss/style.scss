@@ -129,9 +129,7 @@ table {
 }
 
 .section-inner {
-  margin: 0 auto;
-  max-width: 1200px;
-  width: 93%;
+  margin: 0 20px;
 }
 
 .thin {
@@ -816,10 +814,6 @@ hr.post-end {
 @media (min-width: 1800px) {
   .site-main {
     margin-top: 5em;
-  }
-
-  .section-inner {
-    max-width: 1600px;
   }
 
   .thin {
