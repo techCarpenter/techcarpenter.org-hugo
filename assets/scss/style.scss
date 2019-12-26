@@ -134,7 +134,8 @@ table {
 
 .thin {
   max-width: 720px;
-  margin: 6em auto 3em auto;
+  margin: 5em auto 3em auto;
+  padding: 0 1em;
 }
 
 .feather {
@@ -181,6 +182,27 @@ table {
 
 .highlight-copy-btn:hover {
     background-color: #666;
+}
+
+// Button Class
+//
+.btn-class {
+    font-size: 22px;
+    margin: 3px;
+    background-color: transparent;
+    border: 4px solid $text-color;
+    transition: all 0.15s ease-in-out;
+    cursor: pointer;
+    border-radius: 6px;
+    padding: 3px 6px;
+    fill-opacity: 0;
+    &:active,
+    &:focus {
+        border-color: white;
+    }
+    &:hover {
+        color: white;
+    }
 }
 
 // Accessibility
