@@ -53,6 +53,8 @@ I am a disciple of Christ. My faith is an integral part of who I am and infiltra
 
 That's a pretty good summary of who I am. 🙂 I look forward to working with you on your very own website!
 
+**Check out my services to see what I can do for you!** >> <button class="btn-class" onclick="location.href='/services'">Services</button>
+
 <!-- ## Keep Up With Me!
 
 The best way for you to stay in touch with me is to join my email list. I send updates about new articles & materials that may help you with your business's website. **PLUS** when you join, you'll receive a free copy of my _How to get started with Wordpress_ ebook!
