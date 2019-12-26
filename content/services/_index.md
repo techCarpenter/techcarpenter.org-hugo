@@ -2,54 +2,20 @@
 title: "Services"
 ---
 
-## New Websites
+I build lightweight, secure websites for small businesses.
 
-When you work with me to create your website, you can expect the following:
+Most small business websites don't require **the majority** of what site hosting services such as Wordpress offer. Solutions like Wordpress, Wix, Squarespace, etc. come with a lot of overhead that slows down your site and in some cases makes it less secure.
 
-1. 
+The technologies that I use to build websites are lightweight and require minimal developer maintenance so you can edit your content, minimize the overall operating cost of your website, and improve your site's performance.
 
-## Layout Updates
+## Website Creation
 
-<!-- DELETE EVERYTHING UNDER THIS COMMENT BEFORE DEPLOYING SITE LIVE -->
+I build websites that are:
 
----
+- **High performing**: Static sites are _FAST_. Quick build, quick site fetching
+- **Secure**: Static sites have fewer vulnerabilities (no databases)
+- **Easy to use and update**: Lightweight Content Management System
+- **Modern and Responsive**: Mobile-friendly
 
-## Brian Dump
-
-### What I can do
-
-I create websites that are:
-
-- High performing (Static sites are FAST - quick build, quick site fetching)
-- Secure (Static sites have less vulnerabilities)
-- Easy to use and update (CMS with Contentful or Forestry.io)
-- Modern (CSS)
-
-### Benefits
-
-- Less dev maintenance
-  - Secure sites without databases
-- Lower hosting costs
-  - CDN
-  - Git repo
-- No site downtime from surges in traffic
-  - CDN
-- Edit your content easily
-  - CMS
-- Better SEO and more Traffic
-  - CDN
-  - Static Files
-- Having a website allows you to compete in your industry
-- Websites allow people to find your shop
-  - People ARE searching for you (even if you don't think they are)
-
----
-
-Things to know about your ideal customer:
-
-1. Their position in the company (CEO, marketing director, finance, IT, whatever)
-2. the number of employees
-3. their annual revenue
-4. and their industry
-
-Create personalized lead magnet for the potential client.
+<p style="display: flex; flex-direction: column; align-items: center;"><button class="btn-class" onclick="location.href='mailto:brian@techcarpenter.org?subject=Website%20Creation%20Quote&amp;body=Hi%20Brian%2C%0A%0AI\'d%20like%20to%20get%20a%20quote%20for%20your%20website%20creation%20service.';"><em>Get a Quote</em></button>
+</p>
