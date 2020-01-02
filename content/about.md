@@ -4,7 +4,7 @@ title: "About Me"
 
 Even small business owners deserve a professional website. Whether you need a website created or you just need some updates, you've come to the _right place_.
 
-<img src="/images/briandevries.png" alt="Brian DeVries" style="width: 75%;">
+<img src="/images/briandevries.jpg" title="Brian DeVries" alt="Brian DeVries" style="width: 75%;">
 
 ## Who am I?
 
@@ -23,7 +23,7 @@ I work as a web developer known as _The Tech Carpenter_. I specialize in buildin
 
 By working with me, you can ensure that your website will be functional and updated.
 
-<img src="/images/brian_contemplating.png" alt="Brian thinking about your website!" style="width: 50%;">
+<img src="/images/brian_contemplating.jpg" title="Me thinking about your website!" alt="Brian thinking about your website!" style="width: 50%;">
 
 ## How I Got Here
 
