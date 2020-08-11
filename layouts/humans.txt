@@ -1,0 +1,30 @@
+
+   __            __    ______                            __                               
+  / /____  _____/ /_  / ____/___ __________  ___  ____  / /____  _____   ____  _________ _
+ / __/ _ \/ ___/ __ \/ /   / __ `/ ___/ __ \/ _ \/ __ \/ __/ _ \/ ___/  / __ \/ ___/ __ `/
+/ /_/  __/ /__/ / / / /___/ /_/ / /  / /_/ /  __/ / / / /_/  __/ /     / /_/ / /  / /_/ / 
+\__/\___/\___/_/ /_/\____/\__,_/_/  / .___/\___/_/ /_/\__/\___/_/  (_) \____/_/   \__, /  
+                                   /_/                                           /____/   
+
+/* TEAM */
+
+Owner/Developer:     Brian DeVries
+Contact:             brian [at] techcarpenter.org
+Twitter:             @briandevries95
+Location:            Jenison, Michigan, USA
+
+
+/* SITE INFORMATION */
+
+Site Name:           TechCarpenter
+Site URL:            https://techcarpenter.org/
+Launched:            November 2019
+
+
+/* TECHNOLOGY COLOPHON */
+
+IDE:                 VSCode     (code.visualstudio.com)
+Version Control:     GitLab     (gitlab.com)
+Site Generator:      Hugo       (gohugo.io)
+Hosting:             Netlify    (netlify.com)
+Design Software:     Inkscape   (inkscape.org)
